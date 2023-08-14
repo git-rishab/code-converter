@@ -59,6 +59,7 @@ The application is built using the following technologies:
 
 ## Glimpse of Website
 
-![Screenshot (665)](https://github.com/git-rishab/code-converter/assets/114337213/8c4f3acb-7cfb-42a2-b7be-df60003a36cd)
+![Screenshot (667)](https://github.com/git-rishab/code-converter/assets/114337213/990ad2f4-1270-4c0c-815c-95295ee9eac6)
 *Fig: Screenshot showing the application interface with code conversion and debugging features.*
 ---
+
