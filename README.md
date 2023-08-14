@@ -59,10 +59,6 @@ The application is built using the following technologies:
 
 ## Glimpse of Website
 
-![Screenshot 1](/images/screenshot_1.png)
-*Fig. 1: Screenshot showing the application interface with code conversion and debugging features.*
-
-![Screenshot 2](/images/screenshot_2.png)
-*Fig. 2: Another screenshot showcasing code quality checking and language conversion functionality.*
-
+![Screenshot (665)](https://github.com/git-rishab/code-converter/assets/114337213/8c4f3acb-7cfb-42a2-b7be-df60003a36cd)
+*Fig: Screenshot showing the application interface with code conversion and debugging features.*
 ---
